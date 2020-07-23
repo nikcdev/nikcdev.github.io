@@ -3,11 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nikc.dev/categories/</loc>
+    <loc>https://nikc.dev/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nikc.dev/</loc>
+    <loc>https://nikc.dev/categories/</loc>
   </url>
   
   <url>
